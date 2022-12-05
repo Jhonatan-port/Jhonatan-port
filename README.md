@@ -20,5 +20,5 @@
 <br>
 -👨‍🎓Graduação: Sistemas de informação - Unifacear. <br>
 -🤵Trabalho atual: Analista de telecomunicações.<br>
--🎯Estudando: HTML + CSS, Javascript.<br>
--🏆Tambem tenho conhecimentos em: Python, Java, Flutter, SQL.<br>
+-🎯Estudando: HTML + CSS, Python, Javascript.<br>
+-🏆Tambem tenho conhecimentos em: Java, Flutter, SQL.<br>
